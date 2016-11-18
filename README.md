@@ -1,5 +1,5 @@
-# localhost_dashboard
-A PHP dashboard for organizing project links.
+# Localhost Dashbard
+A PHP dashboard for organizing project links. It should appear when you navigate to http://localhost.
 
 ![Dashboard](Dashboard.png)
 
