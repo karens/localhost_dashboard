@@ -3,7 +3,7 @@ A PHP dashboard for organizing project links.
 
 ![Dashboard](Dashboard.png)
 
-To create the dashboard, adjust the config file with your desired links, then place config.php and index.php in your localhost root. Make sure to add something like the following in the <Directory> configuration:
+To create the dashboard, adjust the config file with your desired links, then place config.php and index.php in your localhost root. Make sure to add something like the following in the ```<Directory>``` configuration for apache:
 
 ```
 DirectoryIndex index.php

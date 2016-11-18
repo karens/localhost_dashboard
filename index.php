@@ -15,7 +15,7 @@ h1 {
 .item {
   width:29%;
   float:left;
-	 background-color: #cddff2;
+  background-color: #cddff2;
   margin: 1%;
   padding: 1%;
 }
@@ -25,13 +25,13 @@ body {
 }
 
 li {
-	 width: 100%;
-	 min-height: 2rem;
-	 position: relative;
-	 float: left;
+  width: 100%;
+  min-height: 2rem;
+  position: relative;
+  float: left;
   display: inline;
-	 background-color: #EEE;
-	 border-radius: 4px;
+  background-color: #EEE;
+  border-radius: 4px;
   margin-top: 4px;
 }
 li a {
