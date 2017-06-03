@@ -1,0 +1,29 @@
+sites:
+  'My Pantheon Site':
+    'production':
+       - 'http://www.mypantheonsite.com'
+    'local':
+        - 'https://dashboard.pantheon.io/sites/xxxxxxxxxxx'
+        - 'http://user:pass@dev-mypantheonsite.pantheonsite.io/'
+        - 'http://mypantheonsite.kbox.site'
+  'Another Site With Labels':
+    'production':
+      - 'Production':
+         'https://www.anothersite.com'
+    'local':
+      - 'Pantheon':
+          'https://dashboard.pantheon.io/sites/xxxxxxxxxxx'
+      - 'Dev':
+          'http://user:pass@dev-mypantheonsite.pantheonsite.io/'
+      - 'Kbox':
+          'http://anothersite.kbox.site'
+  'My Docker Site':
+    'production':
+      - 'http://www.mydockersite.com'
+    'local':
+      - 'Drupal':
+          'http://localhost:'
+      - 'CouchDB':
+          'http://localhost:'
+      - 'Github':
+          'https://github.com/me/mydockersite'
